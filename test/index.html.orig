@@ -8,8 +8,11 @@
 <body>
     <h1>
         hola p4merge lo maximo <br>
-        add commit
+<<<<<<< HEAD
         desde mi ordenador
+=======
+        add commit
+>>>>>>> a2a9521a1ff3c0126ff390ca5cca7afb3a81f49d
         linea9 pr ahora
     </h1>
 </body>
